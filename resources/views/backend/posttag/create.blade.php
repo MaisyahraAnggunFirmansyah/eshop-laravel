@@ -29,7 +29,7 @@
           @enderror
         </div>
 
-        <div class="form-group mb-3">
+        <div class="form-group mb-3"> 
           <button type="reset" class="btn btn-warning" style="border-radius:20px;">Reset</button>
           <button class="btn btn-success" type="submit" style="background:#C97B84; border-color:#C97B84; border-radius:20px;">Submit</button>
         </div>
@@ -38,3 +38,4 @@
 </div>
 
 @endsection
+  
